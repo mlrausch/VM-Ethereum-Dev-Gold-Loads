@@ -3,6 +3,7 @@
 Ubuntu 18.04 VM containging the following packages:
 
 - Build Essentials
+- Chrome
 - CMake
 - Geth (Ethereum)
 - Git
