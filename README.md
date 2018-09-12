@@ -38,6 +38,7 @@ packages (apt install):
 - zlib1g-dev
 
 Additional installed apps:
+- Eth Console (npm install -g ethereum-console)
 - Google Chrome
 - Mist Browser (https://github.com/ethereum/mist/releases -- v0.11.0)
 - Nodejs (https://nodejs.org/dist/v8.12.0/node-v8.12.0-linux-x64.tar.gz -- v8.12.0, includes NPM v6.4.1)
