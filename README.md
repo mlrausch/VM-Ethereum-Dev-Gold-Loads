@@ -35,3 +35,6 @@ packages:
 - unzip
 - vim
 - zlib1g-dev
+
+uid: ubuntu
+pwd: ubuntu
