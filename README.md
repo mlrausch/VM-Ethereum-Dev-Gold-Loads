@@ -1,6 +1,6 @@
 # VM-Ethereum-Dev-Gold-Loads
 
-Ubuntu 18.04 VM containing the following updates to the base install:
+Ubuntu 18.04.1 LTS VM containing the following updates to the base install:
 
 System Configuration:
 - Memory: 2gb
