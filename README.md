@@ -24,7 +24,6 @@ packages (apt install):
 - gconf2-common
 - git
 - libappindicator1
-- libappindicator7
 - libdb-dev
 - libgconf-2-4
 - libsodium-dev
