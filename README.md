@@ -41,7 +41,7 @@ packages (apt install):
 Additional installed apps:
 - Chrome
 - Mist Browser (https://github.com/ethereum/mist/releases -- v0.11.0)
-- Nodejs (v8.11.4)
+- Nodejs (https://nodejs.org/dist/v8.12.0/node-v8.12.0-linux-x64.tar.gz -- v8.12.0, includes NPM v6.4.1)
 - Remix (git clone https://github.com/remix)
 - Remix IDE (npm install -g remix-ide)
 - Truffle (npm install -g truffle)
