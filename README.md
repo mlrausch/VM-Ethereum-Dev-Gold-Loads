@@ -17,6 +17,7 @@ packages (apt install):
 - build-essential
 - cmake
 - curl
+- docker (docker.io)
 - ethereum
 - gconf2
 - gconf-service
@@ -28,6 +29,7 @@ packages (apt install):
 - libgconf-2-4
 - libsodium-dev
 - libtinfo-dev 
+- meteor
 - openssh-server
 - python
 - python-dev
@@ -35,6 +37,7 @@ packages (apt install):
 - sysvbanner
 - unzip
 - vim
+- yarn
 - zlib1g-dev
 
 Additional installed apps:
