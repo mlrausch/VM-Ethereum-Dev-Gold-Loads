@@ -2,12 +2,19 @@
 
 Ubuntu 18.04 VM containing the following updates to the base install:
 
+System Configuration:
+- Memory: 2gb
+- Dynamic HD: 40gb
+
+Login:
+- uid: ubuntu
+- pwd: ubuntu
+
 repositories:
 Ethereum (add-apt-repository ppa:ethereum/ethereum)
 
-packages:
+packages (apt install):
 - build-essential
-- Chrome
 - cmake
 - curl
 - ethereum
@@ -22,20 +29,19 @@ packages:
 - libgconf-2-4
 - libsodium-dev
 - libtinfo-dev 
-- Mist Browser (https://github.com/ethereum/mist/releases -- v0.11.0)
-- nodejs (v8.11.4)
 - openssh-server
 - python
 - python-dev
-- Remix (git clone https://github.com/remix)
-- Remix IDE (npm install -g remix-ide)
 - solc
 - sysvbanner
-- truffle (npm install -g truffle)
 - unzip
 - vim
 - zlib1g-dev
 
-uid: ubuntu
-
-pwd: ubuntu
+Additional installed apps:
+- Chrome
+- Mist Browser (https://github.com/ethereum/mist/releases -- v0.11.0)
+- Nodejs (v8.11.4)
+- Remix (git clone https://github.com/remix)
+- Remix IDE (npm install -g remix-ide)
+- Truffle (npm install -g truffle)
